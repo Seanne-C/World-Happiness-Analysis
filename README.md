@@ -3,10 +3,10 @@
   For this project I used data from 'The World Happiness Report' as my basis. The purpose of the analysis was to find out what makes certain countries happier than others.
 ## Data
   This dataset looked at data based on the following information
-    * Happiness Ranking
-    * Country
-    * Happiness Score
-    *GDP Per Capita
+  * Happiness Ranking
+  * Country
+  * Happiness Score
+  * GDP Per Capita
     *Social Support
     *Health/Life Expectancy
     *Generosity
