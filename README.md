@@ -28,4 +28,6 @@
   * warnings - for time series analysis
 ## The Code
   The code is available as a jupyter notebook, available under /scripts/
-    
+## Tableau Storyboard
+* [Tableau Storyboard](https://public.tableau.com/app/profile/seanne.coates/viz/WhatMakesACountryHappy/WhatMakesaCountryHappy#guest=n&2/ "Tableau Storyboard")
+  * This storyboard does not contain every step during the analysis, just those relevent to the final result.
