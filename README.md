@@ -12,6 +12,10 @@
   * Generosity
   * Perception of Corruption
   * Year (2015-2019)
+### Data Source
+* For main analysis: Kaggle. [Sustainable Solutions Development Solutions Network]. ([2020]). [World Happiness Report]. https://www.kaggle.com/datasets/unsdsn/world-happiness
+* [For geospatial analysis](https://datahub.io/core/geo-countries#resource-countries/ "For Geospatial analysis")
+* For time series analysis: https://data.nasdaq.com/data/ODA-imf-cross-country-macroeconomic-statistics
 ## Tools
   For this project the following python libraries were used 
   * pandas - for data analysis
