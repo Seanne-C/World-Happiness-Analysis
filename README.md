@@ -13,9 +13,9 @@
   * Perception of Corruption
   * Year (2015-2019)
 ### Data Source
-* For main analysis: Kaggle. [Sustainable Solutions Development Solutions Network]. ([2020]). [World Happiness Report]. https://www.kaggle.com/datasets/unsdsn/world-happiness
-* [For geospatial analysis](https://datahub.io/core/geo-countries#resource-countries/ "For Geospatial analysis")
-* For time series analysis: https://data.nasdaq.com/data/ODA-imf-cross-country-macroeconomic-statistics
+* [For Main Happiness Ranking Analysis](https://www.kaggle.com/datasets/unsdsn/world-happiness/ "For Main Happiness Ranking Analysis")
+* [For Geospatial Analysis](https://datahub.io/core/geo-countries#resource-countries/ "For Geospatial Analysis")
+* [For Time Series Analysis](https://data.nasdaq.com/data/ODA-imf-cross-country-macroeconomic-statistics/ "For Time Series Analysis")
 ## Tools
   For this project the following python libraries were used 
   * pandas - for data analysis
